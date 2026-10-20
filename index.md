@@ -1,7 +1,7 @@
 # Jiahao Fang's Data Science Portfolio
 
 ## About Me
-Hello! I am a student currently taking CISC7204. This portfolio showcases my data science projects and the skills I have developed in data analysis and visualization.
+Hello! I am a student currently taking CISC7204. This portfolio showcases my data science projects and the skills I have developed in data analysis and visualization. I am passionate about turning data into actionable insights.
 
 ## Technical Skills
 - **Programming Languages**: Python
